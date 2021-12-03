@@ -1,0 +1,15 @@
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\bin\Debug\net6.0-windows\P5_1_1204039.deps.json
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\bin\Debug\net6.0-windows\P5_1_1204039.dll
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\bin\Debug\net6.0-windows\ref\P5_1_1204039.dll
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\bin\Debug\net6.0-windows\P5_1_1204039.pdb
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\P5_1_1204039.csproj.AssemblyReference.cache
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\P5_1_1204039.NumericTextBox.resources
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\P5_1_1204039.csproj.GenerateResource.cache
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\P5_1_1204039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\P5_1_1204039.AssemblyInfoInputs.cache
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\P5_1_1204039.AssemblyInfo.cs
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\P5_1_1204039.csproj.CoreCompileInputs.cache
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\P5_1_1204039.dll
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\ref\P5_1_1204039.dll
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\P5_1_1204039.pdb
+C:\Users\DenjanD\source\repos\P5_1_1204039\P5_1_1204039\obj\Debug\net6.0-windows\P5_1_1204039.VerticalLabel.resources

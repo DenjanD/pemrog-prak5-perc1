@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37782c07-e7ea-4088-9b56-a19423ddbbf0": {
+      "ProjectGuid": "37782c07-e7ea-4088-9b56-a19423ddbbf0",
+      "DisplayName": "P5_1_1204039",
+      "ColorIndex": 0
+    },
+    "94db96c5-844c-4c84-9660-bcd8589b02fc": {
+      "ProjectGuid": "94db96c5-844c-4c84-9660-bcd8589b02fc",
+      "DisplayName": "P5_1_1204039_Host",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
